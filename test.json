@@ -1,0 +1,23 @@
+{
+    "columns": 
+    [
+        "Location ID",
+        "Point Reference",
+        "Distance",
+        "Date Time",
+        "Reading Type",
+        "Reading Reference",
+        "Instrument Reference",
+        "Reading Text",
+        "Reading",
+        "Unit",
+        "Method",
+        "Instrument Detection Limit",
+        "Instrument Upper Limit",
+        "Measurement Name",
+        "Accredition Reference",
+        "Organisation",
+        "Remarks",
+        "Test Type"
+]
+}
